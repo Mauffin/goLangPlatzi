@@ -82,6 +82,6 @@ func main() {
 	radio = 5
 	pii = 3.14
 	areaCirculo =  pii* radio * radio
-	fmt.Println("area de un circulo", areaCirculo)
+	fmt.Println("area de un circulo:", areaCirculo)
 
 }
